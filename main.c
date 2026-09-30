@@ -3,6 +3,6 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Life's a struggle\n");
+    printf("Fuck the reality\n");
     printf("Hello, world!\n");
 }
